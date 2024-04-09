@@ -52,4 +52,4 @@ See https://developer.apple.com/support/third-party-SDK-requirements for details
   - Run build ios
   - `python3 apple_sdk_privacy_update_checker.py` and wait for the result.
 - Example Output:
-  > <video width="320" controls><source src="./assets/videos/apple_sdk_privacy_update_checker.mp4" type="video/mp4"></video>
+  > ![apple_sdk_privacy_update_checker](./assets/videos/apple_sdk_privacy_update_checker.mp4)
