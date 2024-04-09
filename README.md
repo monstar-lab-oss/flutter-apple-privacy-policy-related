@@ -48,8 +48,8 @@ See https://developer.apple.com/support/third-party-SDK-requirements for details
 
 - Usage:
   - Install python3
-  - Install lib [selenium](https://pypi.org/project/selenium/), [webdriver_manager](https://pypi.org/project/webdriver-manager/)
+  - Install library [selenium](https://pypi.org/project/selenium/), [webdriver_manager](https://pypi.org/project/webdriver-manager/)
   - Run build ios
   - `python3 apple_sdk_privacy_update_checker.py` and wait for the result.
 - Example Output:
-  > <video width="320" height="240" controls><source src="./assets/videos/apple_sdk_privacy_update_checker.mp4" type="video/mp4"></video>
+  > <video width="320" controls><source src="./assets/videos/apple_sdk_privacy_update_checker.mp4" type="video/mp4"></video>
