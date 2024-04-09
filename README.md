@@ -52,4 +52,4 @@ See https://developer.apple.com/support/third-party-SDK-requirements for details
   - Run build ios
   - `python3 apple_sdk_privacy_update_checker.py` and wait for the result.
 - Example Output:
-  > ![apple_sdk_privacy_update_checker](./assets/videos/apple_sdk_privacy_update_checker.mp4)
+  > ![apple_sdk_privacy_update_checker](https://github.com/monstar-lab-oss/flutter-apple-privacy-policy-related/assets/40161877/adf1b3c1-b8f1-4539-b738-c92ccfa98529)
